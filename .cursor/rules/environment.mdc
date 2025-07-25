@@ -1,0 +1,45 @@
+---
+description: Coding Environment
+alwaysApply: true
+---
+
+# Coding Environment Rules
+
+This project is an **Expo React Native app** powered by **Bun**. Follow these rules for consistent local development and automation.
+
+## Runtime & Package Manager
+
+- **Always** use **Bun** for dependency management and script execution. Do **not** use `npm`, `yarn`, or `npx`.
+- Install packages with `bun add …` and remove with `bun remove …`.
+
+## Scripts & Commands
+
+| Purpose | Command | Notes |
+|---------|---------|-------|
+| Run project scripts | `bun run <script>` | Executes scripts defined in `package.json`. |
+| Execute a CLI tool once | `bunx <tool> …` | `bunx` (or `bun x`) is Bun’s drop-in replacement for `npx`; no `--bun` flag is needed. |
+| Start Expo dev server | `bunx expo start` | Ensures the Expo CLI runs under Bun. |
+
+> **Why not `bunx --bun`?**  
+> The `--bun` flag is only for **`npx`** (e.g. `npx --bun <tool>`).  
+> `bunx` already runs with Bun, so `bunx <tool>` is the correct form.
+
+## Expo & Native Modules
+
+- Install native dependencies with `bunx expo install <pkg>` to guarantee version alignment with the current Expo SDK.
+- If you add a non-Expo-compatible native module, use the custom-dev-client workflow and document the steps.
+
+## Formatting & Linting
+
+- The project ships with **Prettier** and **ESLint**. All code must pass `bun run format` and `bun run lint` (or the equivalent scripts) before every commit.
+- CI will fail if code is unformatted or lints fail.
+
+## Environment Variables
+
+- Store secrets in **`.env`** (ignored by Git).  
+- Keep **`.env.example`** up-to-date so new contributors know which keys are required.
+
+## Cursor IDE Agents
+
+- Assume **Bun + TypeScript + Expo**; prefer `bun`/`bunx` in generated commands.
+- Follow the project’s TypeScript conventions and directory structure when auto-refactoring or generating code.

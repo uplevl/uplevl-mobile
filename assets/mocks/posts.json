@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=400&h=400&fit=crop",
+    "content": "🏡 NEW LISTING ALERT! This stunning colonial just hit the market and it's everything you've been looking for! 4BR/3BA, 2,400 sq ft of pure perfection. Open floor plan, chef's kitchen with granite counters, finished basement, and a backyard that's perfect for BBQs and kids playing. Priced at $485,000 - won't last long! DM me for a private showing 📱",
+    "hashtags": "#newlisting #colonial #dreamhome #justlisted #realestate",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "scheduledAt": "2024-01-15T14:00:00Z",
+    "likes": 247,
+    "comments": 18,
+    "views": 3241
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=400&fit=crop",
+    "content": "SOLD! 🎉 This gorgeous ranch found its perfect family in just 8 days! My sellers are thrilled and my buyers got their dream home. In this market, pricing and presentation are EVERYTHING. Thinking about selling? Let's chat - I'd love to help you get top dollar for your home too! 💰",
+    "hashtags": "#SOLD #justsold #happyclients #8days #realestate",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-14T16:45:00Z",
+    "scheduledAt": "2024-01-14T18:00:00Z",
+    "likes": 189,
+    "comments": 12,
+    "views": 2156
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&h=400&fit=crop",
+    "content": "First-Time Buyer Tip Tuesday! 💡 Before you start house hunting, get that pre-approval letter! It's like having cash in your pocket - sellers take you seriously and you'll know exactly what you can afford. Plus in multiple offer situations, it can be the difference between getting your dream home or losing it to someone else. Questions? I'm here to help! 🏠",
+    "hashtags": "#tiptuesday #firsttimebuyer #preapproval #buyertips #realestate",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-13T09:20:00Z",
+    "scheduledAt": "2024-01-13T12:00:00Z",
+    "likes": 156,
+    "comments": 24,
+    "views": 2890
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=400&h=400&fit=crop",
+    "content": "January Market Update! 📊 Our local market is still HOT! Average home prices up 8.2% from last year and we only have 2.1 months of inventory (6 months is considered balanced). What does this mean for YOU? Sellers - it's still a great time to list! Buyers - don't wait for prices to drop, they're not going to. Let's talk strategy! 📈",
+    "hashtags": "#marketupdate #january2024 #hotmarket #realestatemarket #buyeragent",
+    "status": "draft",
+    "reviewStatus": "pending",
+    "createdAt": "2024-01-12T14:20:00Z",
+    "scheduledAt": null
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=400&h=400&fit=crop",
+    "content": "Client Love! ❤️ 'Sarah was absolutely incredible! She answered every single one of our million questions, knew the neighborhoods inside and out, and got us $15K under asking price! We couldn't have done it without her!' - The Johnson Family. Reviews like this make my day! Thank you for trusting me with your biggest investment 🙏",
+    "hashtags": "#clientlove #testimonial #5stars #grateful #realestate",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-11T11:15:00Z",
+    "scheduledAt": "2024-01-11T15:30:00Z",
+    "likes": 234,
+    "comments": 31,
+    "views": 2847
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=400&h=400&fit=crop",
+    "content": "Open House Alert! 🏠 THIS SATURDAY 1-3pm at 142 Oak Street! Adorable starter home that's move-in ready. Updated kitchen, original hardwood floors, huge basement for storage, and SO much potential! Perfect for first-time buyers or investors. Priced to sell at $289,000. See you there! (And yes, I'll have cookies 🍪)",
+    "hashtags": "#openhouse #saturday #starterhome #moveinready #firsttimebuyer",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-10T13:45:00Z",
+    "scheduledAt": "2024-01-10T17:00:00Z",
+    "likes": 178,
+    "comments": 9,
+    "views": 1923
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=400&h=400&fit=crop",
+    "content": "Seller Sunday Tips! 💰 Want to add value to your home without breaking the bank? Try these: Fresh paint (especially neutrals), update light fixtures, deep clean EVERYTHING, and consider staging key rooms. These small changes can literally add thousands to your sale price! Getting ready to sell? Let's walk through your home and make a plan! 🏡",
+    "hashtags": "#sellersunday #sellingtips #homestaging #addvalue #ROI",
+    "status": "draft",
+    "reviewStatus": "pending",
+    "createdAt": "2024-01-09T16:30:00Z",
+    "scheduledAt": null
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=400&h=400&fit=crop",
+    "content": "UNDER CONTRACT! 🔑 This beautiful 3BR/2BA in Riverside Gardens had 5 offers in the first weekend! Proof that when you price it right and present it well, buyers will notice. My sellers are over the moon! Ready to sell your home fast? I know exactly what buyers want right now. Let's chat! 📞",
+    "hashtags": "#undercontract #multipleoffer #5offers #firstweekend #sellersmarket",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-08T10:20:00Z",
+    "scheduledAt": "2024-01-08T14:30:00Z",
+    "likes": 201,
+    "comments": 15,
+    "views": 2567
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400&h=400&fit=crop",
+    "content": "Supporting local! ☕ Had an amazing client meeting at the new Sunrise Café on Main Street this morning. Not only is their coffee incredible, but they have the perfect cozy vibe for discussing real estate dreams! Small business owners like this make our community special. What's your favorite local spot? 💕",
+    "hashtags": "#supportlocal #sunrisecafe #clientmeeting #community #smallbusiness",
+    "status": "published",
+    "reviewStatus": "approved",
+    "createdAt": "2024-01-07T08:45:00Z",
+    "scheduledAt": "2024-01-07T09:00:00Z",
+    "likes": 142,
+    "comments": 28,
+    "views": 1834
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://images.unsplash.com/photo-1600047509358-9dc75507daeb?w=400&h=400&fit=crop",
+    "content": "Investment Opportunity! 📈 This duplex is a money maker! Each side rents for $1,200/month ($2,400 total), separate utilities, great tenants already in place. At $285K, you're looking at solid cash flow from day one. Perfect for someone wanting to get into real estate investing or add to their portfolio. Serious investors only - let's talk numbers! 💼",
+    "hashtags": "#investment #duplex #cashflow #rentalincome #investor",
+    "status": "draft",
+    "reviewStatus": "pending",
+    "createdAt": "2024-01-06T15:10:00Z",
+    "scheduledAt": null
+  }
+]

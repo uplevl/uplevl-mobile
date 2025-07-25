@@ -1,0 +1,100 @@
+---
+description: Uplevl Product Context
+alwaysApply: true
+---
+
+# Uplevl Product Context
+
+Uplevl is a modern AI-powered SaaS platform designed specifically for small, local, service-based businesses — including med spas, salons, personal trainers, dental clinics, and beauty studios. Its core mission is to automate social media marketing so business owners can grow their brand **without having to do the work themselves**.
+
+This project represents the **mobile application** of Uplevl, built using **React Native and Expo**, and intended as the **primary touchpoint for customers**. It is where business owners upload their content, generate posts, review performance, and automate their marketing workflow.
+
+---
+
+## Core Promise
+
+**Social Media on Autopilot.**  
+Uplevl helps overwhelmed business owners stay visible, consistent, and professional on Instagram — without hiring an agency or learning complex tools.
+
+---
+
+## Key Product Capabilities
+
+### 1. AI-Powered Post Generation
+
+- Users open the app, take or upload one or more photos.
+- They can add a short description or caption idea (optional).
+- Uplevl uses AI to:
+  - Analyze visual content for tone, activity, and themes.
+  - Generate a warm, human-like caption in the voice of the business (e.g. a spa owner speaking to their regulars).
+  - Suggest 3–5 relevant hashtags for reach.
+  - Bundle uploaded photos into individual or drip-fed posts.
+
+### 2. Content Batching & Drip Scheduling
+
+- If multiple photos are uploaded, Uplevl automatically generates a sequence of posts.
+- Users can preview and optionally edit posts before confirming.
+- The drip engine schedules posts over time (e.g. one per day), so content appears consistently without manual effort.
+
+### 3. Mobile-First Workflow
+
+- The mobile app is the **core interface** for business owners — fast, easy, and distraction-free.
+- Key flows:
+  - Upload media (photos/videos)
+  - Generate post suggestions
+  - Review and approve the post queue
+  - See performance insights at a glance
+
+### 4. Engagement Insights (Minimal Analytics)
+
+- The app provides simple but useful metrics:
+  - Engagement per post
+  - Follower growth
+  - Conversions (e.g. clicks, bookings if connected)
+- Emphasis is on **clarity, not complexity** — insights should feel empowering, not overwhelming.
+
+---
+
+## Technical Stack
+
+- **React Native + Expo** (cross-platform mobile app)
+- **Bun** (for tooling and scripts)
+- **Clerk** (for authentication)
+- **Neon** (for database)
+- **UploadThing** (for file storage)
+- **OpenAI** (for AI caption generation and agents)
+
+---
+
+## Target User Profile
+
+Uplevl is built for small business owners who:
+
+- Are not tech-savvy and don’t want to manage marketing tools.
+- Don’t have time to post on Instagram but know it’s important.
+- Want their brand to appear consistent, professional, and active online.
+- Work primarily from their phone.
+
+Typical user behavior:
+
+- Snaps a photo of their work (e.g. a fresh manicure or patient result)
+- Opens Uplevl, uploads the photo, and gets an AI-crafted caption
+- Approves the post and moves on — marketing is done
+
+---
+
+## Product Tone & Design Philosophy
+
+- **Calm and friendly** — the app should feel like a helper, not a dashboard
+- **Minimalist UX** — every screen has one job
+- **Zero learning curve** — everything just works
+- **Optimized for speed** — users should be able to open the app, upload, and leave in under 60 seconds
+
+---
+
+## Cursor Context Notes
+
+- Assume this mobile app is the **user-facing Uplevl product**.
+- This is not an admin panel or internal tool — it’s the core experience for the customer.
+- Prioritize **mobile UX**, fast interactions, and code simplicity.
+- Focus on visual upload, AI captioning, and content scheduling flows.

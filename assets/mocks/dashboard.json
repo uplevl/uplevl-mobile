@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "commentsAnswered": 34,
+    "potentialLeads": 12,
+    "postsPublished": 28,
+    "avgResponseTime": "1.8m"
+  },
+  "engagement": [
+    { "day": "Mon", "posts": 4, "engagement": 78 },
+    { "day": "Tue", "posts": 3, "engagement": 92 },
+    { "day": "Wed", "posts": 5, "engagement": 156 },
+    { "day": "Thu", "posts": 4, "engagement": 134 },
+    { "day": "Fri", "posts": 6, "engagement": 203 },
+    { "day": "Sat", "posts": 3, "engagement": 167 },
+    { "day": "Sun", "posts": 3, "engagement": 145 }
+  ]
+}

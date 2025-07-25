@@ -1,0 +1,28 @@
+---
+description: Uplevl React + TypeScript Code Style Guide
+alwaysApply: true
+---
+
+# Code Style Rules
+
+## General Guidelines
+
+- Prefer **function declarations** over expressions when defining functions inside React components.
+- Use **arrow functions only** for inline callbacks (e.g., event handlers or simple `.map()` calls).
+- Apply **guard clauses** to simplify logic and reduce nesting—avoid deeply nested `if` statements or `switch` blocks.
+- Adhere to **SOLID principles** where applicable, especially Single Responsibility and Dependency Inversion.
+- Apply **DRY (Don't Repeat Yourself)** to reduce duplication and improve maintainability.
+- Write clear, **JSDoc blocks** for all public functions and exported utilities. Describe purpose, expected behavior, and edge cases.
+- **Do not document types** in JSDoc—TypeScript already handles this. Only use `@param` or `@returns` to explain behavior or purpose.
+- Use **descriptive variable and function names**—avoid vague names like `data`, `info`, or `handleThing`.
+- Prefer **named exports** over default exports, unless there's a clear reason to do otherwise.
+
+## JSX & Component Style
+
+- Split large components into logical sections with **inline comments** to explain their purpose.
+- Use **inline comments** to describe intent or non-obvious implementation details. Write for the "future you" or another developer.
+- Avoid deeply nested JSX; break out complex logic into **subcomponents** or helper functions.
+- Use **destructuring** in function arguments and hooks (e.g., `const { foo } = props`) to improve readability.
+- Keep **effect hooks** (`useEffect`, `useLayoutEffect`) clean and focused. Extract side-effect logic into separate functions when possible.
+- Use **TypeScript interfaces** for all component props and return types for public functions.
+- Prefer **explicit return types** on exported functions to improve readability and prevent type regression.

@@ -1,0 +1,40 @@
+{
+  "1": [
+    {
+      "id": "c1",
+      "customerComment": "Is this house still available? I'd love to schedule a showing!",
+      "customerName": "Michael_Thompson",
+      "aiResponse": "Yes, this beautiful home is still available! I'd be happy to schedule a showing for you. I have availability this Thursday at 3pm or Friday at 11am. You can call me directly at (555) 789-1234 or DM me your preferred time! 🏡",
+      "timestamp": "2024-01-15T15:30:00Z",
+      "isBookingInterest": true
+    },
+    {
+      "id": "c2",
+      "customerComment": "What's the square footage and property taxes on this one?",
+      "customerName": "Jennifer_Liu",
+      "aiResponse": "Great questions! This home is 2,450 sq ft with annual property taxes of approximately $8,200. The spacious layout includes 4 bedrooms and 3 full baths. Would you like me to send you the full property details and recent comparables?",
+      "timestamp": "2024-01-15T16:15:00Z",
+      "isBookingInterest": false
+    }
+  ],
+  "3": [
+    {
+      "id": "c3",
+      "customerComment": "Are you taking new buyer clients? Looking in the $400-500k range",
+      "customerName": "David_Rodriguez",
+      "aiResponse": "Absolutely! I'd love to help you find your perfect home in that price range. There are some excellent options right now. Let's set up a buyer consultation to discuss your must-haves and timeline. When works best for you this week? 🔑",
+      "timestamp": "2024-01-13T13:45:00Z",
+      "isBookingInterest": true
+    }
+  ],
+  "5": [
+    {
+      "id": "c4",
+      "customerComment": "How's the current market for sellers?",
+      "customerName": "Lisa_Anderson",
+      "aiResponse": "The market is still favoring sellers, though we're seeing more balanced conditions than last year. Homes priced right are typically selling within 15-20 days. I'd be happy to provide a complimentary market analysis for your home - when would be a good time to connect?",
+      "timestamp": "2024-01-12T10:20:00Z",
+      "isBookingInterest": true
+    }
+  ]
+}
